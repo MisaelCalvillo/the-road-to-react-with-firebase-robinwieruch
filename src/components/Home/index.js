@@ -1,7 +1,7 @@
 import React from 'react'
 import { withAuthorization } from '../Session';
 
-const Home = () => {
+const HomePage = () => {
   return (
     <div>
       <h1>Home Page</h1>
